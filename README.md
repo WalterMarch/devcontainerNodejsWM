@@ -1,4 +1,4 @@
-# devcontainer-nodejs - Visual Studio Code devcontainer for Node.js
+# devcontainerNodejsWM - Visual Studio Code devcontainer for Node.js
 
 ## Sample Dev Container file(s) for Node.js in VS Code Containerized Development
 
@@ -15,10 +15,10 @@ Based on https://code.visualstudio.com/docs/devcontainers/containers
 
 ## Run the Sample Code
 
-In the `/workspaces/devcontainer-nodejs` directory, run this command:
+In the `sample` directory, run this command:
 
 ```bash
-node sample/server.js
+node server.js
 ```
 
 Open the URL output by the script to verify.
